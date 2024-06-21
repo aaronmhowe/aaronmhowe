@@ -12,16 +12,16 @@
 </a>
 </p>
 
-<h2>About Me</h2>
+<h1>About Me</h1>
 
-## Name: 
-**Aaron Howe**
-## Location: 
-**Pullman, Washington**
-## Education: 
-**Pursuing a Bachelors in Computer Science**
-## School: 
-**Washington State University**
+### Name: 
+Aaron Howe
+### Location: 
+Pullman, Washington
+### Education: 
+Pursuing a Bachelors in Computer Science
+### School: 
+Washington State University
 ### Technical Interests:
 - Machine Learning
 - System Development
