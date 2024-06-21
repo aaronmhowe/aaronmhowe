@@ -42,10 +42,10 @@ Washington State University
 
 ### Hobbies: 
 - Snowboarding
-- golfing
-- lifting
-- music
-- hiking
+- Golfing
+- Lifting
+- Music
+- Hiking
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
