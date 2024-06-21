@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Welcome!🏂&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Welcome!&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
 <h1 align="center">
@@ -12,7 +12,7 @@
 </a>
 </p>
 
-<h1>About Me</h1>
+<h1>About Me🏂</h1>
 
 ### Name: 
 Aaron Howe
