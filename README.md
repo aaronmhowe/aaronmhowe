@@ -7,9 +7,8 @@
 </h1>
 
 <p align="center">
-<a href="www.linkedin.com/in/aaron-howe-b25609173">
-  <img height="50" src="![image](https://github.com/aaronmhowe/aaronmhowe/assets/75334813/72a74654-40b6-4ac3-a51e-e9b74e96cb92)
-"/>
+<a href="https://www.linkedin.com/in/aaron-howe-b25609173/">
+  <img height="50" src="https://img.icons8.com/?size=100&id=447&format=png&color=000000"/>
 </a>
 </p>
 
