@@ -8,7 +8,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/aaron-howe-b25609173/">
-  <img height="50" src="https://img.icons8.com/?size=100&id=447&format=png&color=000000"/>
+  <img height="50" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"/>
 </a>
 </p>
 
