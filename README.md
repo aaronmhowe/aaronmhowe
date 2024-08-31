@@ -35,10 +35,10 @@ Washington State University
 - Python
 - C++
 - C#
-### Goals in 2024:
+### Goals in 2024/2025:
 - Become well-versed in C
-- Complete current developments
-- Apply to 100 internships
+- Complete current & future developments
+- Land a Summer Internship
 
 ### Hobbies: 
 - Snowboarding
