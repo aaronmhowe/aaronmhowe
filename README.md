@@ -28,15 +28,15 @@ Washington State University
 - UI Development
 - Graphics Engines
 ### Current Developments:
-- College campus route generator for users walking from place to place
-- Machine learning software that reads a list of ski resorts displaying data for run-count, pricing, and elevation level, and then compiling them into a ranked list of the best bang-for-buck options
+- Database development for the Bree Collaborative program under the Foundation for Health Care Quality.
+- Web and Application based Streaming Service similar to services like Netflix, Max, etc.
 ### Versed In:
 - Java
 - Python
 - C++
 - C#
-### Goals in 2024/2025:
-- Become well-versed in C
+- HTML/CSS
+### Goals in 2025:
 - Complete current & future developments
 - Land a Summer Internship
 
