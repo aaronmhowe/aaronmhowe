@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Welcome!&color=999999&animation=fadeIn&type=waving&color=351c75&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?&text=Welcome!&animation=fadeIn&type=waving&&color=gradient&height=100"/>
 </p>
 
 <h1 align="center">
@@ -45,5 +45,5 @@ Washington State University
 - Hiking
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=351c75&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=100&section=footer"/>
 </p>
