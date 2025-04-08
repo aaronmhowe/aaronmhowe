@@ -14,27 +14,26 @@
 
 <h1>About Me🏂</h1>
 
-### Name: 
+### ***Name:***
 Aaron Howe
-### Location: 
+### ***Location:*** 
 Pullman, Washington
-### Education: 
+### ***Education:*** 
 Pursuing a Bachelors in Computer Science
-### School: 
+### ***School:***
 Washington State University
-### Technical Interests:
+### ***Technical Interests:***
 - Machine Learning
 - System Development
 - UI Development
 - Graphics Engines
-### Versed In:
+### ***Versed In:***
 - Java
 - Python
 - C++
 - C#
 - HTML/CSS
-
-### Hobbies: 
+### ***Hobbies:*** 
 - Snowboarding
 - Golfing
 - Lifting
