@@ -27,9 +27,6 @@ Washington State University
 - System Development
 - UI Development
 - Graphics Engines
-### Current Developments:
-- Database development for the Bree Collaborative program under the Foundation for Health Care Quality.
-- Web and Application based Streaming Service similar to services like Netflix, Max, etc.
 ### Versed In:
 - Java
 - Python
