@@ -36,9 +36,6 @@ Washington State University
 - C++
 - C#
 - HTML/CSS
-### Goals in 2025:
-- Complete current & future developments
-- Land a Summer Internship
 
 ### Hobbies: 
 - Snowboarding
@@ -48,5 +45,5 @@ Washington State University
 - Hiking
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=351c75&height=100&section=footer"/>
 </p>
