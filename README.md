@@ -23,22 +23,20 @@ Pursuing a Bachelors in Computer Science
 ### ***School:***
 Washington State University
 ### ***Technical Interests:***
-- Machine Learning
-- System Development
-- UI Development
-- Graphics Engines
+- Data Mining
+- Multi-Dimensional Modeling
+- Web Development
 ### ***Versed In:***
 - Java
 - Python
 - C++
 - C#
-- HTML/CSS
+- JavaScript (Node/React)
 ### ***Hobbies:*** 
 - Snowboarding
 - Golfing
 - Lifting
 - Music
-- Hiking
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
